@@ -70,14 +70,10 @@ titleSeparator = "•"
 [params.social]
 codepen = "monkeydri"
 email = "monkeydri@github.com"
-facebook = "monkeydri"
 github = "monkeydri"
 gitlab = "monkeydri"
-instagram = "monkeydri"
 linkedin = "monkeydri"
-twitter = "monkeydri"
 telegram = "monkeydri"
-google_scholar = "xxxxxxx"
 
 [params.comments]
 enable = false
